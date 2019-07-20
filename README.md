@@ -1,3 +1,5 @@
-the trex runner game abstracted from chrome offline err page.
+Nguồn: [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
 
-![chrome offline game cast](img/chrome_offline_game.gif)
+Copy code ở trang web sau vào website (Trang 404):
+
+[https://raw.githubusercontent.com/trantuanminh1754/chromedino/gh-pages/embed.html](https://raw.githubusercontent.com/trantuanminh1754/chromedino/gh-pages/embed.html)
